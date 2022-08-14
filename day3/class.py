@@ -31,7 +31,7 @@ p1.age = 200
 # 删除对象属性
 del p1.age
 
-# 删除对象 del p1
+# 删除对象 del p1·
 del p1
 
 # pass 语句
